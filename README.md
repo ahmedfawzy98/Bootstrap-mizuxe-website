@@ -3,7 +3,7 @@ This is a simple static website as a hobby project aimed to learn Bootstrap, Htm
 [Mizuxe](https://ahmedfawzy98.github.io/Bootstrap-mizuxe-website/)
 
 ## Built With
-[Bootstrap](https://getbootstrap.com)
+[Bootstrap](https://getbootstrap.com)\
 [Sass](https://sass-lang.com/)
 
 ## Deployment
